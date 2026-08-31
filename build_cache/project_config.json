@@ -1,0 +1,11 @@
+{
+    "ProjectName": "SpiderManRemasteredPort",
+    "TargetEngine": "Custom3DNative",
+    "RenderingPipeline": "OpenGL-ES3",
+    "BootSequence": [
+        "PlayStation",
+        "Sony Interactive",
+        "Marvel"
+    ],
+    "Status": "Ready for 3D asset integration."
+}

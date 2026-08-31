@@ -1,0 +1,9 @@
+{
+  "title": "Marvel's Spider-Man Walkthrough Reconstruction",
+  "style": "Shirrako Cinematic Flow (Miles Morales Ascent)",
+  "checkpoints": [
+    { "id": 1, "type": "cinematic", "name": "Awakening Potential - Miles Discovers Bio-Electric Venom Powers" },
+    { "id": 2, "type": "cinematic", "name": "Passing the Torch - Rooftop Conversation & Suit Reveal" },
+    { "id": 3, "type": "gameplay", "name": "First Swing - Miles Morales Initial Swing & Aerial Acrobatics Trial" }
+  ]
+}
